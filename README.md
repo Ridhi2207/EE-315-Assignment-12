@@ -3,9 +3,6 @@
 ### Fault Classification in Power Networks Using MATLAB Simulation
 
 **Group:** 04  
-**Group Leader:** Ridhi Shakkar  
-**Roll Number:** 240002069  
-**Simulation Platform:** MATLAB R2016b or newer
 
 ---
 
